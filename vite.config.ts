@@ -3,9 +3,7 @@ import reactSWC from '@vitejs/plugin-react-swc'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [reactSWC({
-    plugins: [['@swc/plugin-styled-components', {}]],
-  })],
+  plugins: [reactSWC()],
   build: {
     sourcemap: true,
   },
