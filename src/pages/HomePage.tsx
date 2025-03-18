@@ -4,7 +4,6 @@ import Container from "../components/Container";
 import Card from "../components/Card";
 import Section from "../components/Section";
 import Image from "../components/Image";
-import Header from "../components/Header";
 
 const HomePage: React.FC = () => {
   return (
