@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F5F7FA" />
+  <text x="200" y="150" font-family="Inter, sans-serif" font-size="24" fill="#4D4D4D" text-anchor="middle">
+    Image not found
+  </text>
+  <rect x="120" y="170" width="160" height="4" fill="#4CAF4F" rx="2" />
+</svg> 
